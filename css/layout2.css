@@ -1,0 +1,468 @@
+body{
+    background-color: #ebebeb;
+}
+
+/*Barra de Menu*/
+.menu{
+    background-color: #313436;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 113px;
+    z-index: 10;
+}
+
+#logo_menu img{
+    position: relative;
+    width: 150px;
+    height: 50px;
+    top: 28px;
+    left: 120px;
+}
+
+.pesquisa_menu input{
+    position: relative;
+    left:306.4px;
+    top: -40px;
+    width: 545.3px;
+    height: 30px;
+}
+
+.nomes_menu a{
+    color: #f2f2f2;
+    position: relative;
+    text-decoration: none;
+    padding: 22px;
+    font-size: 18px;
+    left: 307px;
+    top: -19px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    transition: 0.5s;
+    height: 100px;
+}
+
+.nomes_menu a:hover{
+    background-color: #f2f2f2;
+    color: #313436;
+    
+}
+
+#afiliados{
+    background-color: #47979b;
+    position: relative;
+    height: 35px;
+    width: 200px;
+    left: 900px;
+    top: -95px
+}
+
+
+#afiliados a{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+    text-decoration: none;
+    color: #f2f2f2;
+    position: relative;
+    top: 8px;
+    left: 25px;
+}
+
+.icone1_menu img{
+    position: relative;
+    width: 25px;
+    height: 25px;
+    top: -80px;
+    left: 935px;
+}
+
+.icone1_menu a{
+    position: relative;
+    top: -85px;
+    left: 945px;
+    color: #5bdfe4;
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.icone2_menu img{
+    position: relative;
+    width: 30px;
+    height: 30px;
+    top: -140px;
+    left: 1150px;
+}
+
+.icone2_menu p{
+    position: relative;
+    top: -185px;
+    left: 1190px;
+    color: #f2f2f2;
+    font-family: Arial;
+    font-size: 14px;
+}
+
+.icone2_menu a{
+    color: #5bdfe4;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: none;
+}
+
+/*Destaques*/
+.estante-destaques1{
+    position: relative;
+    top: 150px;
+    left: 110px;
+    width: 1212px;
+    height: 450px;
+}
+
+.estante-destaques1 div{
+    background-color: white;
+    margin: 0 auto;
+    margin-left: 10px;
+    left: 15px;
+    display: inline-block;
+    height: 450px;
+    width: 280px;
+    z-index: 1px;
+    position: relative;
+}
+
+.estante-destaques1 div:hover{
+    box-shadow: 0px 0px 10px #313436;
+    transition: 0.5s;
+}
+
+.estantes1 img{
+    position: relative;
+    width: 280px;
+    height: 280px;
+}
+
+.estantes2 img{
+    position: relative;
+    width: 280px;
+    height: 280px;
+}
+
+.estantes3 img{
+    position: relative;
+    width: 280px;
+    height: 280px;
+}
+
+.estantes4 img{
+    position: relative;
+    width: 280px;
+    height: 280px;
+}
+
+.estantes1 span{
+    position: relative;
+    left: 7px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+    color: #75727a;
+    text-decoration: none;
+}
+
+.estantes2 span{
+    position: relative;
+    left: 7px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+    color: #75727a;
+    text-decoration: none;
+}
+
+.estantes3 span{
+    position: relative;
+    left: 7px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+    color: #75727a;
+    text-decoration: none;
+}
+
+.estantes4 span{
+    position: relative;
+    left: 7px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+    color: #75727a;
+    text-decoration: none;
+}
+
+.estante-destaques2{
+    position: relative;
+    top: 170px;
+    left: 110px;
+    width: 1212px;
+    height: 450px;
+}
+
+.estante-destaques2 div{
+    background-color: white;
+    margin: 0 auto;
+    margin-left: 10px;
+    left: 15px;
+    display: inline-block;
+    height: 450px;
+    width: 280px;
+    z-index: 1px;
+    position: relative;
+    
+}
+
+.estante-destaques2 div:hover{
+    box-shadow: 0px 0px 10px #313436;
+    transition: 0.5s;
+}
+
+.estantes1 img{
+    position: relative;
+    width: 280px;
+    height: 280px;
+}
+
+.estantes2 img{
+    position: relative;
+    width: 280px;
+    height: 280px;
+}
+
+.estantes3 img{
+    position: relative;
+    width: 280px;
+    height: 280px;
+}
+
+.estantes4 img{
+    position: relative;
+    width: 280px;
+    height: 280px;
+}
+
+.estantes1 span{
+    position: relative;
+    left: 7px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+    color: #75727a;
+    text-decoration: none;
+}
+
+.estantes2 span{
+    position: relative;
+    left: 7px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+    color: #75727a;
+    text-decoration: none;
+}
+
+.estantes3 span{
+    position: relative;
+    left: 7px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+    color: #75727a;
+    text-decoration: none;
+}
+
+.estantes4 span{
+    position: relative;
+    left: 7px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+    color: #75727a;
+    text-decoration: none;
+}
+
+.estante-destaques3{
+    position: relative;
+    top: 190px;
+    left: 110px;
+    width: 1212px;
+    height: 450px;
+}
+
+.estante-destaques3 div{
+    background-color: white;
+    margin: 0 auto;
+    margin-left: 10px;
+    left: 15px;
+    display: inline-block;
+    height: 450px;
+    width: 280px;
+    z-index: 1px;
+    position: relative;
+}
+
+.estante-destaques3 div:hover{
+    box-shadow: 0px 0px 10px #313436;
+    transition: 0.5s;
+}
+
+.estantes1 img{
+    position: relative;
+    width: 280px;
+    height: 280px;
+}
+
+.estantes2 img{
+    position: relative;
+    width: 280px;
+    height: 280px;
+}
+
+.estantes3 img{
+    position: relative;
+    width: 280px;
+    height: 280px;
+}
+
+.estantes4 img{
+    position: relative;
+    width: 280px;
+    height: 280px;
+}
+
+.estantes1 span{
+    position: relative;
+    left: 7px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+    color: #75727a;
+    text-decoration: none;
+}
+
+.estantes2 span{
+    position: relative;
+    left: 7px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+    color: #75727a;
+    text-decoration: none;
+}
+
+.estantes3 span{
+    position: relative;
+    left: 7px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+    color: #75727a;
+    text-decoration: none;
+}
+
+.estantes4 span{
+    position: relative;
+    left: 7px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+    color: #75727a;
+    text-decoration: none;
+}
+
+.barra-contato{
+    background-color: #47979b;
+    width: 1440px;
+    height: 150px;
+    position: relative;
+    right: 8px;
+    top: 350px;
+}
+
+.barra-contato img{
+    width: 500px;
+    height: 200px;
+    position: relative;
+    left: 60px;
+    top: -40px;
+    opacity: 0.5;
+}
+
+.barra-contato span{
+    font-family:  Arial;
+    font-size: 30px;
+    color: #f2f2f2;
+}
+
+.barra-contato #titulo-legenda{
+    position: relative;
+    left: 90px;
+    top: -140px;
+}
+
+.barra-contato #legenda{
+    position: relative;
+    left: 595px;
+    top: -140px;
+}
+
+.barra-contato input{
+    width: 250px;
+    height: 30px;
+    position: relative;
+    left: 825px;
+    top: -200px;
+    border: none;
+}
+
+.barra-contato button{
+    width: 50px;
+    height: 30px;
+    left: 825px;
+    top: -200px;
+    position: relative;
+    border: none;
+    background-color: #313436;
+    color: #f2f2f2;
+}
+
+.barra-final{
+    background-color: #313436;
+    width: 1440px;
+    height: 400px;
+    position: relative;
+    right: 8px;
+    top: 350px;
+}
+
+.barra-final img{
+    width: 150px;
+    height: 50px;
+    position: relative;
+    left: 120px;
+    top: 60px;
+}
+
+.barra-final #contato{
+    width: 305PX;
+    position: relative;
+    left: 120px;
+    top: 150px;
+    font-family: Arial;
+    font-size: 16px;
+    color: #f2f2f2;
+}
+
+.barra-final #historia{
+    font-family: Arial;
+    font-size: 16px;
+    color: #f2f2f2;
+    width: 280px;
+    position: relative;
+    left: 550px;
+    bottom: 65px;
+}
+
+.barra-final #duvidas{
+    position: relative;
+    width: 165px;
+    left: 950px;
+    bottom: 232px;
+    font-family: Arial;
+    color: #f2f2f2;
+}

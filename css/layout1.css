@@ -1,0 +1,28 @@
+
+.titulos_destaques{
+    display: flex;
+    justify-content: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 22px;
+    color: #47979b;
+}
+
+.produtos1{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.titulos_cadastro{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    color: #47979b;
+    margin-left: 70px;
+}
+
+.cadastro{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
